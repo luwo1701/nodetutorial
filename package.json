@@ -1,0 +1,14 @@
+{
+  "name": "mytestapp",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida augue viverra neque varius, ut eleifend ante volutpat. Etiam auctor pulvinar elementum. Morbi maximus non purus in efficitur. Aliquam auctor metus dictum, aliquet mi sed, pharetra turpis. Nulla facilisi. Praesent nisi ligula, tempor eu sollicitudin a, rutrum et nisi. Quisque elementum dictum ante, sed tempor ex gravida sit amet. Curabitur iaculis nunc tincidunt, vulputate ipsum ac, pellentesque est. Integer lobortis porta quam, id pellentesque ipsum pulvinar at. Ut eu ex fringilla, rhoncus erat et, aliquam risus. Donec tincidunt ornare enim in imperdiet. Morbi scelerisque ante sed arcu aliquet sodales. Aliquam quis posuere nisl, sed accumsan lorem. Sed fermentum tortor purus, et iaculis risus tincidunt convallis. Curabitur vulputate iaculis diam quis tincidunt. Fusce ac tortor vel ipsum lobortis commodo ut tincidunt ante.",
+  "main": "routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LJW",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
